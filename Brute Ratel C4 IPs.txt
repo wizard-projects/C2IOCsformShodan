@@ -1,4 +1,0 @@
-149.28.251.203,Brute Ratel C4 IPs
-93.66.153.13,Brute Ratel C4 IPs
-13.113.86.16,Brute Ratel C4 IPs
-3.112.78.101,Brute Ratel C4 IPs
