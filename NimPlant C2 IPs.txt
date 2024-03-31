@@ -1,3 +1,0 @@
-3.0.147.54,NimPlant C2 IPs
-3.17.181.161,NimPlant C2 IPs
-54.234.19.243,NimPlant C2 IPs
